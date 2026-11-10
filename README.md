@@ -1,5 +1,7 @@
 # iamsingle.app — directory of single-file web apps
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
+
 A curated, community-submittable catalog of apps that ship as one HTML file:
 no install, no build step, no server required to run. Sparked by
 [Show HN: Bento](https://news.ycombinator.com/item?id=49008211) and the
@@ -248,3 +250,7 @@ afternoon, a contribution keeps the next one coming — any amount, or none.
 | **Books** | [the author's other work](https://www.amazon.com/stores/author/B08ZT331LY/allbooks) |
 | **Elsewhere** | [all projects](https://drsamonline.github.io/) |
 | **Email** | [sohilmomin2000@gmail.com](mailto:sohilmomin2000@gmail.com) — bugs, corrections, requests |
+
+## Licence
+
+MIT. Copyright © 2026 Dr Sohil Momin. See [LICENSE](LICENSE).
