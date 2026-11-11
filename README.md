@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
 
-
-![Screenshot](docs/shot.png)
 A curated, community-submittable catalog of apps that ship as one HTML file:
 no install, no build step, no server required to run. Sparked by
 [Show HN: Bento](https://news.ycombinator.com/item?id=49008211) and the
